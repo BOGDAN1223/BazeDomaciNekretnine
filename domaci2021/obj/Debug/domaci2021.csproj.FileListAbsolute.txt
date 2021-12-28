@@ -1,0 +1,21 @@
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\bin\Debug\domaci2021.exe.config
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\bin\Debug\domaci2021.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\bin\Debug\domaci2021.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.csprojAssemblyReference.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.Form1.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.Properties.Resources.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.csproj.GenerateResource.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.csproj.CoreCompileInputs.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.pdb
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\bin\Debug\domaci2021.exe.config
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\bin\Debug\domaci2021.exe
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\bin\Debug\domaci2021.pdb
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.csproj.AssemblyReference.cache
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.Form1.resources
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.Properties.Resources.resources
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.csproj.GenerateResource.cache
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.csproj.CoreCompileInputs.cache
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.exe
+D:\Downloads\domaci-main (1)\domaci-main\domaci2021\obj\Debug\domaci2021.pdb
